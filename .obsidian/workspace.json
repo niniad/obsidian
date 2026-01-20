@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "3962be539be1fcb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec893fe104efeb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba13870efb9fb8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92a50cc81b5d0d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad6569de2d36fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4c6a682a244b5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "a7ccfb830d4ef833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a8772246a54d96f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f5710dc50982875",
+    "type": "split",
+    "children": [
+      {
+        "id": "be98120e27f772f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f48ddd2c2745a92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "エア・ウォーター/HP/株主・投資家情報/中期経営計画/中期経営計画説明会スクリプト.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "中期経営計画説明会スクリプトへのバックリンク"
+            }
+          },
+          {
+            "id": "95beaf68cdf35eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "エア・ウォーター/HP/株主・投資家情報/中期経営計画/中期経営計画説明会スクリプト.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "中期経営計画説明会スクリプトからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "39eedc6f0a782bde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "41c1e058bbe161b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "a48aaa509f86bc45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "エア・ウォーター/HP/株主・投資家情報/中期経営計画/中期経営計画説明会スクリプト.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "中期経営計画説明会スクリプトのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aba13870efb9fb8d",
+  "lastOpenFiles": [
+    "AirWater/決算業績関連/2003年3月期/個別財務諸表の概要.pdf",
+    "AirWater/決算業績関連/2003年3月期/決算短信_連結.pdf",
+    "AirWater/決算業績関連/2003年3月期",
+    "AirWater/決算業績関連/2004年3月期/個別財務諸表の概要.pdf",
+    "AirWater/決算業績関連/2004年3月期/決算短信_連結.pdf",
+    "AirWater/決算業績関連/2004年3月期",
+    "AirWater/決算業績関連/2005年3月期/個別財務諸表の概要.pdf",
+    "AirWater/決算業績関連/2005年3月期/決算短信_連結.pdf",
+    "AirWater/決算業績関連/2005年3月期",
+    "AirWater/決算業績関連/2006年3月期/個別財務諸表の概要.pdf",
+    "AirWater/決算業績関連/2006年3月期/決算短信_連結.pdf",
+    "AirWater/価値創造プロセス  経営方針  株主・投資家情報  エア・ウォーター株式会社.md",
+    "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+    "AirWater/中期経営計画/中期経営計画  経営方針  株主・投資家情報  エア・ウォーター株式会社.md",
+    "AirWater/中期経営計画  経営方針  株主・投資家情報  エア・ウォーター株式会社.md"
+  ]
+}
