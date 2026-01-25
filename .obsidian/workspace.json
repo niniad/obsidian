@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+                "file": "Clippings/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社"
+              "title": "有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社"
+            }
+          },
+          {
+            "id": "b2e77a5d9241c3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,22 +198,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "aba13870efb9fb8d",
+  "active": "fc4c6a682a244b5f",
   "lastOpenFiles": [
-    "AirWater/決算業績関連/2003年3月期/個別財務諸表の概要.pdf",
-    "AirWater/決算業績関連/2003年3月期/決算短信_連結.pdf",
-    "AirWater/決算業績関連/2003年3月期",
-    "AirWater/決算業績関連/2004年3月期/個別財務諸表の概要.pdf",
-    "AirWater/決算業績関連/2004年3月期/決算短信_連結.pdf",
-    "AirWater/決算業績関連/2004年3月期",
-    "AirWater/決算業績関連/2005年3月期/個別財務諸表の概要.pdf",
-    "AirWater/決算業績関連/2005年3月期/決算短信_連結.pdf",
-    "AirWater/決算業績関連/2005年3月期",
-    "AirWater/決算業績関連/2006年3月期/個別財務諸表の概要.pdf",
-    "AirWater/決算業績関連/2006年3月期/決算短信_連結.pdf",
-    "AirWater/価値創造プロセス  経営方針  株主・投資家情報  エア・ウォーター株式会社.md",
-    "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
-    "AirWater/中期経営計画/中期経営計画  経営方針  株主・投資家情報  エア・ウォーター株式会社.md",
-    "AirWater/中期経営計画  経営方針  株主・投資家情報  エア・ウォーター株式会社.md"
+    "Inbox/個人情報.md",
+    "Inbox/Ufaブランドコンセプト.md",
+    "Inbox/事業概要.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Your Baby’s Physical Development 9 Months.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Your 9-month-old’s sensory learning.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Your 9-month-old’s language development.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Your 10-month-old’s cognitive development.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Your 8-month-old’s cognitive development.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Why wooden toys make the best playthings.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Why do babies love to dump things out of containers.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Why tubes and containers are so essential to your baby.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/What to do when your baby gets stuck in standing.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Why and how to babyproof early.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/When do babies wave.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Welcome to The Explorer Play Kit for months 9-10.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Tummy time milestones by month.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Ways to practice pre-walking skills.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/Tips to help babies sleep.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The math activity you did not know you have in your house.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The surprising ways bathtime builds your child’s brain.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The stages of block play, from banging to building.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The fine motor skill babies love (and parents sometimes hate).md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The fascinating powers of a simple Montessori egg.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The complete guide to baby development milestones.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The 5 stages of sitting.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months/The benefits of bringing your baby outside.md",
+    "Inbox/lovevery/Playtime Activities/9 - 10 Months",
+    "Inbox/lovevery/Playtime Activities/7 - 8 Months",
+    "Inbox/lovevery/Playtime Activities/5 - 6 Months",
+    "Inbox/lovevery/Playtime Activities/34 - 36 Months",
+    "Inbox/lovevery/Playtime Activities/28 - 30 Months",
+    "Inbox/lovevery/Playtime Activities/31 - 33 Months",
+    "Inbox/lovevery/Playtime Activities/3 - 4 Months",
+    "Inbox/lovevery/Playtime Activities/22 - 24 Months",
+    "Inbox/lovevery/Playtime Activities/25 - 27 Months",
+    "Inbox/lovevery/Playtime Activities/16 - 18 Months"
   ]
 }

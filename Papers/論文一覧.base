@@ -1,0 +1,39 @@
+properties:
+  note.主な分析対象（幸福の決定要因等）:
+    displayName: 主な分析対象
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "08_Papers/base"
+    order:
+      - file.name
+      - 著者名
+      - 発表年
+      - 掲載紙名
+      - 研究対象（国・サンプル特性）
+      - 研究方法
+      - 主な分析対象（幸福の決定要因等）
+      - 主要発見
+      - 結論・示唆
+      - DOIまたはURL
+      - file.tags
+      - file.mtime
+    sort:
+      - property: 研究対象（国・サンプル特性）
+        direction: ASC
+      - property: 主な分析対象（幸福の決定要因等）
+        direction: ASC
+      - property: 著者名
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 202
+      note.著者名: 110
+      note.DOIまたはURL: 458
+      file.tags: 107
+      file.mtime: 183

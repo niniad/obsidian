@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/starred.json
+.obsidian/recent-files.json
+
+# Agent
+.agent/scratchpad.md
+
+# OS
+.DS_Store
+Thumbs.db
