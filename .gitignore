@@ -7,6 +7,9 @@
 # Agent
 .agent/scratchpad.md
 
+# Attachments (stored locally, not in git)
+_attachments/
+
 # OS
 .DS_Store
 Thumbs.db

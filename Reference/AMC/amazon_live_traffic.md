@@ -1,0 +1,21 @@
+Table: amazon_live_traffic
+  - ad_product_type
+  - advertiser
+  - broadcast_date_utc
+  - broadcast_id
+  - broadcast_name
+  - clicks
+  - creative_asin
+  - creative_id
+  - event_date_utc
+  - event_day_utc
+  - event_dt_hour_utc
+  - event_dt_utc
+  - event_hour_utc
+  - event_id
+  - impressions
+  - site
+  - slot_name
+  - user_id
+  - user_id_type
+  - views
