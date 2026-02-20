@@ -71,7 +71,24 @@ G:\マイドライブ\
 - 設定: my-settings, obsidian
 - 要整理: refactoring-awi-files（AW業務ファイル4,259件、Google Drive移行を検討）
 
-#### 5. PC 移行時の手順
+#### 5. Obsidian 画像管理（GCS + 自動アップロード）
+
+- **バケット**: `gs://obsidian-assets`（asia-northeast1、公開読み取り）
+- **公開URL形式**: `https://storage.googleapis.com/obsidian-assets/{path}`
+- **サービスアカウント**: `obsidian-assets@main-project-477501.iam.gserviceaccount.com`
+- **プラグイン**: S3 Image Uploader（HMAC キーでGCSのS3互換APIに接続）
+- **画像ペースト時の動作**: 自動でGCSにアップロード → URLに置換
+- **BigQuery カタログ**: `assets.v_image_catalog` でURL一覧・検索可能
+- **プレビュー**: GCS Console（https://console.cloud.google.com/storage/browser/obsidian-assets）
+
+#### 6. Obsidian Git 自動同期
+
+- **プラグイン**: Obsidian Git (v2.37.1)
+- **自動バックアップ**: 10分間隔でコミット＆プッシュ
+- **自動プル**: 10分間隔 + 起動時プル
+- **コミットメッセージ**: `vault backup: YYYY-MM-DD HH:mm:ss`
+
+#### 7. PC 移行時の手順
 
 1. Google アカウントでログイン → Drive, Eagle 自動復元
 2. `C:\Users\ninni\nocodb\` をコピー → NocoDB 復元
