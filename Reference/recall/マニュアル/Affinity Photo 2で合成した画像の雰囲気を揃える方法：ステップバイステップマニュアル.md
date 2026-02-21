@@ -1,0 +1,174 @@
+---
+title: Affinity Photo 2で合成した画像の雰囲気を揃える方法：ステップバイステップマニュアル\
+tags:
+  - "デザイン"
+  - "マニュアル"
+createdAt: Thu Nov 13 2025 23:10:34 GMT+0900 (日本標準時)
+updatedAt: Thu Nov 13 2025 23:10:44 GMT+0900 (日本標準時)
+---
+
+
+- はじめに
+- Affinity Photo 2で複数の画像を合成する際、それぞれの画像が持つ色彩、彩度、明度などの雰囲気が異なると、最終的な仕上がりが不自然に見えることがあります。画像を効果的に合成し、プロフェッショナルな結果を得るためには、これらの要素を調整し、画像全体に統一感を持たせることが重要です。このマニュアルでは、Affinity Photo 2を使用して画像合成を行う際に、複数の画像の彩度、明度、色調などの雰囲気を効果的に揃えるための具体的な手順を解説します。このマニュアルは、Affinity Photo 2の基本的な操作を理解しており、画像合成のスキル向上を目指すユーザーを対象としています。色の統一感は、高品質な画像合成の基本的な要件であり、適切に調整することで、画像全体に調和が生まれ、視覚的な訴求力が高まります 1。
+- 画像合成の基本
+- Affinity Photo 2における画像合成は、複数の画像を異なるレイヤーに配置し、それらを重ね合わせることで実現されます。各レイヤーは独立して編集可能であり、透明度やブレンドモードなどを調整することで、最終的な合成結果をコントロールします 3。一般的な画像合成のワークフローには、素材となる画像の選択、背景と前景の分離、画像の配置とサイズ調整、境界線の調整、そして最終的な色彩と照明の調整が含まれます 1。特に、色彩調整は、画像合成の最終段階で、複数の要素を自然に統合するために不可欠なステップです。レイヤーは、非破壊的な編集と柔軟な合成を実現するためのAffinity Photo 2の基本的な構成要素であり、色彩調整は通常、特定のレイヤーに対して行われるため、レイヤーの概念を理解することは、以降の手順を理解するための基礎となります。
+- 色彩調整の基本
+- Affinity Photo 2は、画像の色彩を調整するための豊富な機能を備えています。主な機能には、HSL、カラーバランス、選択色、グラデーションマップ、LUTなどがあります 10。これらの機能を活用することで、色相、彩度、明度を細かく調整し、複数の画像間で色彩の統一感を生み出すことができます。Affinity Photo 2では、調整レイヤーを使用することで、元の画像データを変更せずに色彩調整を行うことができます 3。調整レイヤーは、元の画像の上に重ねて適用され、設定はいつでも変更可能です。これにより、試行錯誤しながら最適な調整を見つけることができ、編集の柔軟性が大幅に向上します。調整レイヤーは、Affinity Photo 2における色彩調整の推奨される方法であり、編集の柔軟性と安全性を高めます。
+- 色、彩度、明度を合わせるためのステップバイステップガイド
+- 方法 1：HSL調整レイヤーの使用
+- HSL調整レイヤーは、画像の色相（Hue）、彩度（Saturation）、明度（Luminosity）を個別に調整するために使用します 3。
+- 各画像のHSL値を個別に調整する方法:
+    - 調整したいレイヤーを選択します。
+    - レイヤーパネルの下部にある「調整」アイコンをクリックし、「HSL」を選択します。
+    - 表示されるダイアログで、「色相」、「彩度」、「明度」のスライダーを調整し、目的の色合いに近づけます。HSL調整は、画像全体の色彩の基本的な特性を調整するための強力なツールです。
+    - 必要に応じて、特定の色範囲のみを調整するために、「マスター」ドロップダウンメニューから個別の色を選択し、それぞれのHSL値を調整します。
+- クリッピングマスクを使用して特定レイヤーのみに影響を与える方法:
+    - HSL調整レイヤーを、調整したいレイヤーの上に配置します。
+    - HSL調整レイヤーを右クリックし、「下のレイヤーにクリップ」を選択します。または、HSL調整レイヤーを選択した状態で、レイヤーパネルの上部にあるクリップアイコンをクリックします。クリッピングマスクは、複数のレイヤーを含む合成画像において、特定の要素の色のみを調整するための不可欠なテクニックです 3。
+    - これで、HSL調整は下のレイヤーにのみ影響を与えるようになります。合成画像では、背景と前景など、個別の要素の色を別々に調整する必要がある場合が多いため、クリッピングマスクの使用は重要です。
+- 方法 2：カラーバランス調整レイヤーの使用
+- カラーバランス調整レイヤーは、画像のシャドウ、中間調、ハイライトの色合いを調整するために使用します 3。
+- シャドウ、中間調、ハイライトの色合いを調整する方法:
+    - 調整したいレイヤーを選択します。
+    - レイヤーパネルの下部にある「調整」アイコンをクリックし、「カラーバランス」を選択します。
+    - 表示されるダイアログで、「シャドウ」、「中間調」、「ハイライト」の各トーン範囲を選択し、それぞれに対してシアン-レッド、マゼンタ-グリーン、イエロー-ブルーのスライダーを調整します。カラーバランス調整は、画像全体の色の偏りを修正し、より自然な色合いを作り出すのに役立ちます。
+    - プレビューを見ながら、目的の色合いになるようにスライダーを微調整します。画像によっては、全体的な色調だけでなく、特定のトーン範囲の色合いを調整する必要があるため、カラーバランス調整は重要なツールです。
+- 色の偏りを補正する方法:
+    - カラーバランス調整レイヤーを追加します。
+    - 色の偏りが強いトーン範囲（例えば、全体的に青みが強い場合は「中間調」）を選択します。
+    - 偏っている色の反対色（青の場合は黄色）のスライダーを、偏りが解消されるまでゆっくりと調整します。
+    - 必要に応じて、「シャドウ」や「ハイライト」のトーン範囲も調整し、全体のバランスを整えます。カラーバランス調整は、異なる光源下で撮影された画像の色合いを統一するのに有効です。合成する画像が異なる状況で撮影された場合、色温度の違いによる色の偏りを補正するために、カラーバランス調整が役立ちます。
+- 方法 3：選択色調整レイヤーの使用
+- 選択色調整レイヤーは、画像内の特定の色範囲の色相、彩度、明度を調整するために使用します 3。
+- 特定の色範囲の色相、彩度、明度を調整する方法:
+    - 調整したいレイヤーを選択します。
+    - レイヤーパネルの下部にある「調整」アイコンをクリックし、「選択色」を選択します。
+    - 表示されるダイアログの「カラー」ドロップダウンメニューから、調整したい特定の色範囲（例えば、「レッド」、「イエロー」、「グリーン」など）を選択します。選択色調整は、画像全体の特定の色要素のみを微調整したい場合に非常に有効です。
+    - 「シアン」、「マゼンタ」、「イエロー」、「ブラック」のスライダーを調整することで、選択した色範囲の色相、彩度、明度を間接的に調整します。例えば、「イエロー」を増やすと、選択した色範囲がより黄色っぽくなります。
+    - 「相対」オプションのチェックを外すと、絶対的なパーセンテージで色の増減を調整できますが、通常は「相対」をオンにしておく方が自然な結果が得られます 14。
+- より微妙な色彩調整を行うテクニック:
+    - 選択色調整レイヤーを使用し、調整したい色範囲を選択します。
+    - スライダーを大きく動かすのではなく、わずかに調整します。プレビューを見ながら、徐々に目的の色合いに近づけていきます。選択色調整は、過度な調整を避けることで、より自然で洗練された色彩の調整を実現できます。
+    - 複数の選択色調整レイヤーを重ねて使用することで、より複雑な色の調整を行うことができます。
+    - 必要に応じて、レイヤーの不透明度を調整することで、効果の強さを微調整します。色彩調整が強すぎると、画像が不自然に見える可能性があるため、微妙な調整を重ねることで、より自然な仕上がりを目指します。
+- 方法 4：グラデーションマップ調整レイヤーの使用
+- グラデーションマップ調整レイヤーは、画像のトーン範囲を特定のグラデーションの色に再マッピングすることで、色を調整するために使用します 3。
+- 背景画像の色を基準に前景画像の色を調整する方法:
+    - 前景画像のレイヤーを選択します。
+    - レイヤーパネルの下部にある「調整」アイコンをクリックし、「グラデーションマップ」を選択します。
+    - 初期設定のグラデーションが表示されます。これを、背景画像の色合いを反映したグラデーションに編集します。グラデーションマップは、画像間の色彩の雰囲気を根本的に一致させるための強力なツールであり、特に異なる画像の色調を調和させるのに有効です 18。
+    - グラデーションエディターを開き、背景画像のシャドウ、中間調、ハイライトに対応する色をそれぞれ選択してグラデーションを作成します。カラーピッカーツール（後述）を使用して、背景画像から直接色をサンプリングすると便利です。背景画像の色調を基準に前景画像の色を調整することで、合成された画像全体に統一感のある色彩を与えることができます。
+    - グラデーションマップ調整レイヤーを前景画像のレイヤーにクリップします（方法 1 の「クリッピングマスクを使用して特定レイヤーのみに影響を与える方法」を参照）。
+- シャドウ、中間調、ハイライトの色を選択する手順:
+    - 背景画像のレイヤーを表示し、グラデーションマップ調整レイヤーを一時的に非表示にします。
+    - カラーピッカーツールを選択し、背景画像の最も暗い部分（シャドウ）、中間の明るさの部分（中間調）、最も明るい部分（ハイライト）をそれぞれクリックして色をサンプリングし、記録しておきます 18。背景画像の主要なトーン範囲の色を正確にサンプリングし、グラデーションマップに適用することで、前景画像の色を自然に背景に溶け込ませることができます。
+    - グラデーションマップ調整レイヤーを再度表示し、グラデーションエディターを開きます。
+    - グラデーションストップを追加または編集して、ステップ 2 でサンプリングしたシャドウ、中間調、ハイライトの色をそれぞれ割り当てます。人間の目は、画像のシャドウ、中間調、ハイライトの色に敏感であるため、これらの色を一致させることで、合成画像のリアリティを高めることができます。
+- 不透明度を調整して自然なブレンドを実現する方法:
+    - グラデーションマップ調整レイヤーを選択します。
+    - レイヤーパネルの上部にある「不透明度」スライダーを調整します。不透明度を下げるほど、元の前景画像の色が透けて見えるようになり、グラデーションマップの効果が弱まります 18。
+    - プレビューを見ながら、前景画像と背景画像の色が自然にブレンドされるように不透明度を微調整します。グラデーションマップの効果を完全に適用するのではなく、不透明度を調整することで、前景画像の元の色味を部分的に残し、より自然な仕上がりを得ることができます。特に、前景画像に重要な色情報（例えば、人物の肌の色）が含まれている場合、不透明度を調整することで、その情報を保持しつつ背景の色調に合わせることができます。
+- 方法 5：LUT（ルックアップテーブル）の使用
+- LUT（ルックアップテーブル）は、画像の色情報を変換するためのファイルで、既存のLUTを適用することで、画像全体の色調を瞬時に変更し、複数の画像間で色調を統一することができます 3。
+- 既存のLUTを適用して色調を統一する方法:
+    - 調整したいレイヤーを選択します（通常は、すべてのレイヤーに影響を与えるために最上位のレイヤーを選択します）。
+    - レイヤーパネルの下部にある「調整」アイコンをクリックし、「LUT」を選択します。
+    - 表示されるダイアログで、「読み込み」をクリックし、適用したいLUTファイル（.cubeなどの形式）を選択します。Affinity Photo 2には、いくつかのデフォルトのLUTが用意されています。LUTは、プロのカラリストが作成したプリセットの色調を簡単に適用できるため、効率的に画像全体の雰囲気を統一するのに役立ちます。
+    - LUTが適用され、画像の色調が変化します。必要に応じて、LUT調整レイヤーの不透明度を調整して効果の強さを調整します。複数の画像に同じLUTを適用することで、簡単に色調を統一し、一貫性のあるビジュアルスタイルを作り出すことができます。
+- カスタムLUTを作成および適用する方法:
+    - 目的の色調に調整した画像を開きます。
+    - レイヤーパネルで、色調調整に使用したすべての調整レイヤーを選択します。
+    - メニューバーから「編集」>「LUTをエクスポート」を選択します 20。
+    - ファイル名と保存場所を指定し、「OK」をクリックしてLUTファイルを保存します。カスタムLUTを作成することで、特定の色調調整の組み合わせを再利用できるようになり、作業効率が向上し、一貫したルックを維持できます。
+    - 作成したカスタムLUTを別の画像に適用するには、上記「既存のLUTを適用して色調を統一する方法」の手順に従います。例えば、特定プロジェクト全体で同じ色調を使用したい場合に、カスタムLUTを作成して適用することで、各画像に同じ調整を繰り返す手間を省けます。
+- 方法 6：カラーピッカーツールの活用
+- カラーピッカーツールを使用すると、画像内の特定の色をサンプリングし、それを別の画像に適用することができます 23。
+- 一方の画像から色をサンプリングし、もう一方の画像に適用する方法:
+    - Affinity Photo 2で、色をサンプリングしたい画像と、色を適用したい画像の両方を開きます。
+    - ツールパネルから「カラーピッカーツール」を選択します 24。
+    - 色をサンプリングしたい画像上で、目的の色をクリックします。サンプリングされた色は、カラーパネルまたはスウォッチパネルのプライマリカラーとして表示されます。カラーピッカーツールは、画像間の特定の色を直接的に一致させるための基本的なツールです。
+    - 色を適用したい画像を選択し、調整レイヤー（例えば、「塗りつぶし」レイヤーや「HSL」調整レイヤーなど）を追加します。
+    - 調整レイヤーの設定で、ステップ 3 でサンプリングしたプライマリカラーを選択します。例えば、前景画像の特定の部分の色を背景画像の色と完全に一致させたい場合に、カラーピッカーツールで背景の色をサンプリングし、前景の該当部分に適用することで、シームレスな統合が可能になります。
+- スウォッチパネルを使用した色の管理:
+    - カラーピッカーツールでサンプリングした色を、スウォッチパネルに保存します。カラーパネルでプライマリカラーが表示されている状態で、スウォッチパネルの空のスウォッチをクリックするか、「新しいスウォッチを追加」アイコンをクリックします。
+    - 複数の画像で使用したい色をスウォッチパネルに保存しておくことで、異なる画像間で一貫した色を使用することができます。スウォッチパネルを活用することで、複数の画像間で色を効率的に管理し、一貫性を保つことができます。
+    - 必要に応じて、アプリケーションパレットまたはドキュメントパレットを作成し、プロジェクト全体で使用する色をまとめて管理することも可能です 27。特に、複数の画像要素を組み合わせた複雑な合成画像では、使用する色を事前に定義し、スウォッチパネルで管理することで、色の選択と適用をスムーズに行うことができます。
+- より高度なテクニック
+- ブレンドモードの活用
+- レイヤーのブレンドモードを変更することで、重ね合わされたレイヤーの色の相互作用を調整し、独特の効果を生み出すことができます。例えば、「ソフトライト」や「オーバーレイ」などのブレンドモードは、色彩の調和を自然に見せるのに役立つ場合があります 5。ブレンドモードは、色彩調整レイヤーの効果を微調整したり、異なるレイヤーの色をより自然に統合したりするための強力なツールです。単に色を置き換えるだけでなく、ブレンドモードを使用することで、元の画像の色情報を活かしながら、より複雑で自然な色彩の調和を実現できます。
+- マスクを使用した局所的な調整
+- 調整レイヤーにレイヤーマスクを追加することで、調整の効果を画像の一部分のみに限定することができます。例えば、前景の特定の部分の色だけを背景に合わせたい場合に、その部分をマスクで選択し、調整レイヤーの効果を適用します 4。マスクを使用することで、画像全体に均一な調整を適用するのではなく、必要な部分だけに効果を与えることができるため、より精密な色彩調整が可能です。例えば、人物の肌の色はそのままに、背景の色調だけを変更したい場合などに、マスクを使用することで、特定の部分の色を保護しながら他の部分の色を調整できます。
+- 参照画像を使用したカラーマッチングの考え方
+- 理想的な色合いを持つ参照画像を横に置き、自分の合成画像の色と比較しながら調整を行うことで、より客観的に色彩を合わせることができます。参照画像からカラーピッカーツールで色をサンプリングし、自分の画像に適用することも有効です 31。参照画像を使用することで、主観的な判断に頼るだけでなく、客観的な基準に基づいて色彩調整を行うことができます。特に、特定の色調や雰囲気を目指している場合に、参照画像を用意することで、目標とする色彩を明確にし、効率的に調整を進めることができます。
+- トラブルシューティング
+- よくある問題と解決策
+    - 問題点: 調整レイヤーの効果が強すぎる、または弱すぎる。
+    - 解決策: 調整レイヤーの不透明度を調整する。
+    - 問題点: 特定の色だけが不自然に変化する。
+    - 解決策: 選択色調整レイヤーでその色範囲を細かく調整する。または、レイヤーマスクを使用して調整範囲を限定する。
+    - 問題点: 全体の色調は合っているが、一部の要素の色が浮いて見える。
+    - 解決策: その要素に個別の調整レイヤーを追加し、周囲の色と調和するように調整する。
+    - 問題点: LUTを適用したが、期待した効果が得られない。
+    - 解決策: 複数のLUTを試すか、LUT調整レイヤーの不透明度やブレンドモードを調整する。または、他の調整レイヤーと組み合わせて使用する。
+- 自然な合成結果を得るためのヒント
+    - 過度な調整は避け、微妙な調整を重ねる。
+    - 全体の色調だけでなく、明度や彩度も考慮して調整する。
+    - 必要に応じて、シャドウ、中間調、ハイライトのバランスを個別に調整する（カラーバランス調整）。
+    - 参照画像を活用し、客観的な視点を持つ。
+    - 定期的に全体像を確認し、細部にこだわりすぎない。
+- まとめ
+- Affinity Photo 2には、HSL、カラーバランス、選択色、グラデーションマップ、LUTなど、複数の画像の色彩を調整するための強力なツールが備わっています。調整レイヤーを使用することで、非破壊的な編集が可能になり、柔軟に調整を試すことができます。クリッピングマスクやレイヤーマスクを活用することで、調整の効果を特定の部分に限定できます。カラーピッカーツールとスウォッチパネルを使用することで、画像間の色を効率的に管理できます。ブレンドモードや参照画像の活用など、より高度なテクニックを駆使することで、さらに自然で洗練された合成結果を得ることができます。
+- さらなる学習のためのリソース
+    - Affinity Photo 2 公式ヘルプドキュメント 3
+    - Affinity Photo 2 チュートリアル動画 5
+    - Affinity Photo 2 ユーザーフォーラム 23
+    - 画像合成と色彩調整に関するオンラインコース 1
+- 表：Affinity Photo 2の主な色彩調整機能
+- 機能名主な用途調整可能なパラメータ
+- HSL色相、彩度、明度の調整色相、彩度、明度（マスター、レッド、イエロー、グリーン、シアン、ブルー、マゼンタ）
+- カラーバランスシャドウ、中間調、ハイライトの色合い調整、色の偏り補正シアン-レッド、マゼンタ-グリーン、イエロー-ブルー（シャドウ、中間調、ハイライト）
+- 選択色特定の色範囲の色相、彩度、明度を調整シアン、マゼンタ、イエロー、ブラック（レッド、イエロー、グリーン、シアン、ブルー、マゼンタ、ホワイト、ニュートラル、ブラック）
+- グラデーションマップ画像のトーン範囲をグラデーションの色に再マッピンググラデーションの色、位置、ブレンドモード
+- LUT画像全体の色調をプリセットで変更LUTファイルの選択、不透明度
+- カラーピッカー画像内の特定の色をサンプリングサンプリング範囲、適用対象
+- 引用文献
+    - Compositing for Beginners | Affinity Revolution, 3月 20, 2025にアクセス、 https://courses.affinityrevolution.com/p/compositing-for-beginners
+    - Compositing Masterclass: Learn Compositing In Just 35 Minutes! - Affinity | Forum, 3月 20, 2025にアクセス、 https://forum.affinity.serif.com/index.php?/topic/216447-compositing-masterclass-learn-compositing-in-just-35-minutes/
+    - Applying adjustments - Affinity Help, 3月 20, 2025にアクセス、 https://affinity.help/photo2/en-US.lproj/pages/Adjustments/adjustment_applying.html
+    - Using adjustment layers - Affinity Help, 3月 20, 2025にアクセス、 https://affinity.help/photo2/en-US.lproj/pages/Layers/adjustmentLayers.html
+    - Beginner's Guide To Layers - Affinity Photo Tutorial - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=QWtXd7HMytY
+    - Basic Compositing (Affinity Photo) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=jZdbdQnO10k
+    - Basic Compositing (Affinity Photo iPad) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=6YFOQ5QiK5Q
+    - The Basics of Compositing Images in Affinity | Tutorial - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=MTQrJAUO9WA
+    - Blending images in affinity photo 2 (compositing) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=OHvya64T7hM
+    - Color adjustments - Affinity Help, 3月 20, 2025にアクセス、 https://affinity.help/photo2/en-US.lproj/pages/Adjustments/clrAdjustments.html
+    - Affinity Photo 2 Tutorial - Colour grading - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=tRXqUx4Gst4
+    - Affinity Photo tutorial - Selective Colour - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=8sZNr4XsorE
+    - The Easiest Way to MATCH COLOR in Affinity Photo - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=CPsRWw3Qhzs
+    - Selective Color adjustment - Affinity Help, 3月 20, 2025にアクセス、 https://affinity.help/photo2/en-US.lproj/pages/Adjustments/adjustment_selectiveClr.html
+    - How Colours are Selected in Selective Colour (and How to Use This in Practice) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=uQYeI_afg9o
+    - Affinity Photo tutorials - Match colour grading - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=g6KDfIy2ERM
+    - Affinity Photo - Match Tone Of One Layer With Another - Various Ways - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=YUnQZo7qiDM
+    - Master Color Matching in Affinity Photo - Toolify AI, 3月 20, 2025にアクセス、 https://www.toolify.ai/ai-news/master-color-matching-in-affinity-photo-80561
+    - How to Match SKIN color using Affinity Photo (Part 1 - Gradient map) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=PSkCd8m01Wc
+    - How to Use LUTs | Affinity Photo for Beginners #shorts - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=L6tghT0JaQk
+    - Creating & Importing LUTs in Affinity Photo 2 - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=V3evDQ5nwPU
+    - How to Use LUTs on Pictures in Affinity Photo - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=z4dQmpf5PLM&pp=0gcJCfcAhR29_xXO
+    - Colour matching - Pre-V2 Archive of Affinity on Desktop Questions (macOS and Windows), 3月 20, 2025にアクセス、 https://forum.affinity.serif.com/index.php?/topic/13847-colour-matching/
+    - Sampling colours - Affinity Help, 3月 20, 2025にアクセス、 https://affinity.help/photo2/English.lproj/pages/Clr/samplingClr.html
+    - Sampling (or picking) colors - Affinity Help, 3月 20, 2025にアクセス、 https://affinity.help/photo2/en-US.lproj/pages/Clr/samplingClr.html
+    - Affinity Photo - Selecting Colours From Another Image or Other Places - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=bgYxKkc26tg
+    - Affinity Photo Color Picker - how to retain picked color from one file to another, 3月 20, 2025にアクセス、 https://forum.affinity.serif.com/index.php?/topic/206098-affinity-photo-color-picker-how-to-retain-picked-color-from-one-file-to-another/
+    - [Tutorial] Selective Color Editing in Affinity Photo (Desktop) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=4N_wksQdk2Q
+    - Easiest Way to Change Colors in Affinity Photo 2 (Beginner-Friendly!) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=qwm9rasjbd0
+    - Masking Adjustment & Live Filter Layers (Affinity Photo) - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=fHbmpa7K5_4
+    - How to match image colors using an image as a reference? - Affinity ..., 3月 20, 2025にアクセス、 https://forum.affinity.serif.com/index.php?/topic/179245-how-to-match-image-colors-using-an-image-as-a-reference/
+    - Take Your Compositing to the Next Level with Affinity Photo 2.5 - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=UDM3cji3nPk
+    - How To Composite And Blend Images In Affinity Photo - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=tkFOz1e7bGs
+    - All Adjustment Layers EXPLAINED - Tutorial for Affinity Photo/Designer/Publisher - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=NO0mWTK2ufU
+    - Affinity Photo Version 2: Adding and Moving Adjustment Layers - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=OMv9gnI6VJY
+    - Match SKIN color Part 2.- using Infer LUT in Affinity Photo - YouTube, 3月 20, 2025にアクセス、 https://www.youtube.com/watch?v=IuDlPakvdaw
+    - Black & White & RGB : What you NEED to Know : Tutorial for Affinity Photo/Publisher/Designer, 3月 20, 2025にアクセス、 https://forum.affinity.serif.com/index.php?/topic/196798-black-white-rgb-what-you-need-to-know-tutorial-for-affinity-photopublisherdesigner/
+    - How do I use Select Sampled Color? - Affinity | Forum, 3月 20, 2025にアクセス、 https://forum.affinity.serif.com/index.php?/topic/20840-how-do-i-use-select-sampled-color/
+
+
