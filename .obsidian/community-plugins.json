@@ -1,1 +1,4 @@
-["obsidian-git", "s3-image-uploader"]
+[
+  "obsidian-git",
+  "s3-image-uploader"
+]
