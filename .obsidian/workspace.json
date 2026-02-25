@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ec0f3451614f32",
+        "id": "e96d69ee01fca819",
         "type": "tabs",
         "children": [
           {
-            "id": "aba22a99bde01be7",
+            "id": "f54940d5ac6e5b2d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "ec/Amazon知識/広告データ/Amazon広告.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Amazon広告"
             }
           }
         ]
@@ -182,8 +184,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aba22a99bde01be7",
+  "active": "f54940d5ac6e5b2d",
   "lastOpenFiles": [
+    "ec/Amazon知識/広告データ/Amazon Advertising.md",
+    "aw/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+    "aw/身近な業務からDXの種を探す.md",
+    "aw/身近な業務からDXの種を探したか.md",
+    "aw/社会の変化からDXの種を探す.md",
+    "aw/社会の変化からDXの種を探したか.md",
+    "aw/顧客行動からDXの種を探す.md",
+    "aw/顧客行動からDXの種を探したか.md",
+    "aw/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+    "aw/業務改革DXの種類は明確か.md",
+    "aw/中期経営計画/中期経営計画  経営方針  株主・投資家情報  エア・ウォーター株式会社.md",
+    "aw/株価分析/02_PER_Expectation_Growth.md",
+    "aw/株価分析/01_Net_Income_Structure.md",
+    "aw/株価分析/00_Introduction.md",
+    "aw/recall/職務経歴手元メモ.md",
+    "aw/recall/職務経歴.md",
+    "aw/DX/社会の変化からDXの種を探したか.md",
+    "aw/DX/顧客行動からDXの種を探す.md",
+    "aw/DX/顧客行動からDXの種を探したか.md",
+    "aw/DX/業務改革DXの種類は明確か.md",
     "Reference/recall/家庭のこと/楽天モバイル 家族カードで支払っていた分を支払い.md",
     "Reference/recall/家庭のこと",
     "Reference/recall/子育て支援サービス/神戸市ファミリー・サポート・センター／地域の中でみんなで子育て.md",
@@ -191,27 +213,7 @@
     "Reference/recall/子育て支援サービス/神戸市ファミサポ説明会 文字起こし.md",
     "Reference/recall/子育て支援サービス/神戸市ファミサポ パンフレット.md",
     "Reference/recall/子育て支援サービス/神戸市ファミサポ 依頼会員募集パンフレット.md",
-    "Reference/recall/子育て支援サービス/神戸市ファミサポ 会則.md",
     "Reference/recall/子育て支援サービス",
-    "Reference/recall/🌵 7 Best Baby Wipe Dispensers.md",
-    "Reference/recall/FBA商品名の要件.md",
-    "Reference/recall/LINE公式アカウントのデフォルト挨拶メッセージ.md",
-    "private/data-sources.md",
-    "private/profile.md",
-    "private/profile-spec.md",
-    "private/process.md",
-    "private/evidence-base.md",
-    "private/CLAUDE.md",
-    "private/幸福度を最大化するために把握すべきすべてのこと.md",
-    "private/compass_artifact_wf-efa0d354-9b4e-4fc6-af8a-1bb80cd3b890_text_markdown.md",
-    "Reference/recall/読書/鬼速PDCA.md",
-    "Reference/recall/読書/小さく分けて考える.md",
-    "Reference/recall/読書/自分の親に呼んで欲しかった本　フィリッパー・ペリー.md",
-    "Reference/recall/読書/孫正義のむちゃぶりをすべて解決してきたすごいPDCA（三木雄信）.md",
-    "Reference/recall/読書/コンセプトの教科書　細田高広　著（お食事エプロンver）.md",
-    "Reference/recall/読書/コンセプトの教科書（細田 高広）.md",
-    "Reference/recall/読書/「マーケティング」実践講座（弓削　徹）.md",
-    "Reference/recall/読書/「遺伝が9割」そして、親にできること.md",
     "Reference/recall/読書",
     "Reference/recall/自己啓発",
     "Reference/recall/マーケティング/ウェブマーケティング",
