@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/SlackをAI搭載の「後で読む」として使う（Slack AI×自作Chrome拡張）｜数理の弾丸 ─ 京大博士のAI解説.md",
+                "file": "Clippings/コンテキストエンジニアリング超まとめ｜数理の弾丸 ─ 京大博士のAI解説.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SlackをAI搭載の「後で読む」として使う（Slack AI×自作Chrome拡張）｜数理の弾丸 ─ 京大博士のAI解説"
+              "title": "コンテキストエンジニアリング超まとめ｜数理の弾丸 ─ 京大博士のAI解説"
             }
           }
         ]
@@ -186,8 +186,11 @@
   },
   "active": "f54940d5ac6e5b2d",
   "lastOpenFiles": [
-    "Clippings/秒で導入できる、Claude Codeを快適にするための工夫 2｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/GPT OSSのファインチューニング with unsloth｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/コンテキストエンジニアリング超まとめ｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/SkillsをAIアプリ間・デバイス間でシームレスに管理する｜数理の弾丸 ─ 京大博士のAI解説.md",
     "Clippings/SlackをAI搭載の「後で読む」として使う（Slack AI×自作Chrome拡張）｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/秒で導入できる、Claude Codeを快適にするための工夫 2｜数理の弾丸 ─ 京大博士のAI解説.md",
     "Clippings/秒で導入できる、Claude Codeを快適にするための工夫｜数理の弾丸 ─ 京大博士のAI解説.md",
     "Clippings/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
     "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
@@ -209,9 +212,6 @@
     "aw/株価分析/00_Introduction.md",
     "aw/recall/職務経歴手元メモ.md",
     "aw/recall/職務経歴.md",
-    "aw/DX/社会の変化からDXの種を探したか.md",
-    "aw/DX/顧客行動からDXの種を探す.md",
-    "aw/DX/顧客行動からDXの種を探したか.md",
     "Reference/recall/家庭のこと",
     "Reference/recall/子育て支援サービス",
     "Reference/recall/読書",
