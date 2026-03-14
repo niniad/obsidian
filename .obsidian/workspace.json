@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/資料＆文献案内 階層型思考モデル HRM｜数理の弾丸 ─ 京大博士のAI解説.md",
+                "file": "数理の弾丸/【論文解説】 Googleの新LLM「T5Gemma 2」の構成を理解する｜数理の弾丸 ─ 京大博士のAI解説.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資料＆文献案内 階層型思考モデル HRM｜数理の弾丸 ─ 京大博士のAI解説"
+              "title": "【論文解説】 Googleの新LLM「T5Gemma 2」の構成を理解する｜数理の弾丸 ─ 京大博士のAI解説"
+            }
+          },
+          {
+            "id": "ab8303d30f8785f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/【解読】 Googleのコンテキストエンジニアリング 後編｜数理の弾丸 ─ 京大博士のAI解説.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【解読】 Googleのコンテキストエンジニアリング 後編｜数理の弾丸 ─ 京大博士のAI解説"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,24 +199,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54940d5ac6e5b2d",
+  "active": "ab8303d30f8785f6",
   "lastOpenFiles": [
-    "Clippings/Gemini 3 から学ぶ添付PDFの解析｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/資料＆文献案内 階層型思考モデル HRM｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/LLMの最近のデコード方式を整理する｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/【論文解説】 Googleの新LLM「T5Gemma 2」の構成を理解する｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/【解読】 Googleのコンテキストエンジニアリング 後編｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/doc-to-lora-mathbullet.pdf",
+    "数理の弾丸/rag-is-dead-mathbullet.pdf",
+    "数理の弾丸/aidd-mathbullet.pdf",
+    "数理の弾丸/transformer-intro-mathbullet.pdf",
+    "数理の弾丸/attention-frontier-mathbullet.pdf",
+    "数理の弾丸/context-engineering-mathbullet.pdf",
+    "数理の弾丸/modern-python-dev-mathbullet.pdf",
+    "数理の弾丸/gpt-oss-mathbullet.pdf",
+    "数理の弾丸/hrm-mathbullet.pdf",
+    "数理の弾丸/adk-turotial-mathbullet.pdf",
+    "数理の弾丸/mHC-mathbullet.pdf",
     "Clippings/【解読】 Googleのコンテキストエンジニアリング 前編｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/envファイルの送り合いから脱却する【dotenvx】｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/コンテキストエンジニアリング超まとめ｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/GPT OSSのファインチューニング with unsloth｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/SkillsをAIアプリ間・デバイス間でシームレスに管理する｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/SlackをAI搭載の「後で読む」として使う（Slack AI×自作Chrome拡張）｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/秒で導入できる、Claude Codeを快適にするための工夫 2｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/秒で導入できる、Claude Codeを快適にするための工夫｜数理の弾丸 ─ 京大博士のAI解説.md",
-    "Clippings/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
-    "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
     "Clippings/【自分OS】日記を「AI時代の資産」に変える。NotebookLM連携ツール配布します【NotebookLM-Diary】｜まじん.md",
+    "数理の弾丸/コンテキストエンジニアリング超まとめ｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/秒で導入できる、Claude Codeを快適にするための工夫｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/秒で導入できる、Claude Codeを快適にするための工夫 2｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/論文を読むのが辛い【論文の読み方】｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/資料＆文献案内 階層型思考モデル HRM｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
+    "数理の弾丸/【論文解説】 Googleの新LLM「T5Gemma 2」の構成を理解する｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/Gemini 3 から学ぶ添付PDFの解析｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/LLMの最近のデコード方式を整理する｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/【解読】 Googleのコンテキストエンジニアリング 後編｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/envファイルの送り合いから脱却する【dotenvx】｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/GPT OSSのファインチューニング with unsloth｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/SkillsをAIアプリ間・デバイス間でシームレスに管理する｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "数理の弾丸/SlackをAI搭載の「後で読む」として使う（Slack AI×自作Chrome拡張）｜数理の弾丸 ─ 京大博士のAI解説.md",
+    "Clippings/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
     "ec/Amazon知識/広告データ/Amazon広告.md",
     "ec/Amazon知識/広告データ/Amazon Advertising.md",
     "aw/有価証券報告書  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
@@ -209,18 +236,6 @@
     "aw/身近な業務からDXの種を探したか.md",
     "aw/社会の変化からDXの種を探す.md",
     "aw/社会の変化からDXの種を探したか.md",
-    "aw/顧客行動からDXの種を探す.md",
-    "aw/顧客行動からDXの種を探したか.md",
-    "aw/決算業績関連  IRライブラリ  株主・投資家情報  エア・ウォーター株式会社.md",
-    "Reference/recall/家庭のこと",
-    "Reference/recall/子育て支援サービス",
-    "Reference/recall/読書",
-    "Reference/recall/自己啓発",
-    "Reference/recall/マーケティング/ウェブマーケティング",
-    "Reference/recall/マーケティング/EC施策",
-    "Reference/recall/マーケティング",
-    "Reference/recall/プロンプト",
-    "Reference/recall/プログラミング",
-    "Reference/recall/フレームワーク"
+    "aw/顧客行動からDXの種を探す.md"
   ]
 }
