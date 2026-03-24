@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Thread by @nobsaiHQ.md",
+                "file": "Clippings/Your Agents Produce Slop Because You're Poor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread by @nobsaiHQ"
+              "title": "Your Agents Produce Slop Because You're Poor"
             }
           }
         ],
@@ -216,6 +216,7 @@
   "active": "c546def3e3eb75c3",
   "lastOpenFiles": [
     "Clippings/Thread by @nobsaiHQ.md",
+    "Clippings/Your Agents Produce Slop Because You're Poor.md",
     "数理の弾丸/doc-to-lora-mathbullet.pdf",
     "数理の弾丸/rag-is-dead-mathbullet.pdf",
     "数理の弾丸/aidd-mathbullet.pdf",
@@ -249,7 +250,6 @@
     "aw/身近な業務からDXの種を探す.md",
     "aw/身近な業務からDXの種を探したか.md",
     "aw/社会の変化からDXの種を探す.md",
-    "aw/社会の変化からDXの種を探したか.md",
-    "aw/顧客行動からDXの種を探す.md"
+    "aw/社会の変化からDXの種を探したか.md"
   ]
 }
