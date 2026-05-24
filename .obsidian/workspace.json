@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Your Agents Produce Slop Because You're Poor"
             }
+          },
+          {
+            "id": "3068019e6a3bca5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c546def3e3eb75c3",
+  "active": "3068019e6a3bca5f",
   "lastOpenFiles": [
     "Clippings/Thread by @nobsaiHQ.md",
     "Clippings/Your Agents Produce Slop Because You're Poor.md",
