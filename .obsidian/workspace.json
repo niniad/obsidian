@@ -11,17 +11,14 @@
             "id": "f54940d5ac6e5b2d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -189,8 +186,12 @@
   },
   "active": "f54940d5ac6e5b2d",
   "lastOpenFiles": [
-    "inbox/2026-06-14.md",
+    "数理の弾丸.md",
+    "Home.md",
+    "inbox.md",
+    "Reference.md",
     "無題のファイル.canvas",
+    "inbox/2026-06-14.md",
     "private/幸福度を最大化するために把握すべきすべてのこと.md",
     "archive/2024-05-monthly-review-draft.md",
     "archive/weekly-journals-2024/2024_template.md",
@@ -212,9 +213,6 @@
     "archive/recall-misc/Book/Discobolus.md",
     "archive/recall-misc/Book/Diagnostic and Statistical Manual of Mental Disorders.md",
     "archive/recall-misc/Book/Democracy and Education.md",
-    "archive/recall-misc/Book/Bible.md",
-    "archive/recall-misc/Book/Behavior Rating Inventory of Executive Function.md",
-    "archive/recall-misc/Book/100億マニュアル ロケットマーケティングで顧客を掴め.md",
     "数理の弾丸/gpt-oss-mathbullet.pdf",
     "数理の弾丸/doc-to-lora-mathbullet.pdf",
     "数理の弾丸/context-engineering-mathbullet.pdf",
